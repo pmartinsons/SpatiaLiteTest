@@ -166,6 +166,9 @@
     <Content Include="libiconv-2.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="liblzma-5.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="libproj-9.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
