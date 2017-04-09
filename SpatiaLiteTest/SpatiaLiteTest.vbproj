@@ -172,6 +172,9 @@
     <Content Include="libstdc++_64-6.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="libxml2-2.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="mod_spatialite.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
