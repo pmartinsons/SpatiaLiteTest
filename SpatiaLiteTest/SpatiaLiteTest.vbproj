@@ -151,7 +151,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="libgcc_s_seh-1.dll">
+    <Content Include="libgcc_s_seh_64-1.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="libgeos-3-5-0.dll">
